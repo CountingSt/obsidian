@@ -1,0 +1,216 @@
+{
+  "main": {
+    "id": "2f7e5d55b7f3cb83",
+    "type": "split",
+    "children": [
+      {
+        "id": "0194886e1d8d984b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6759866e6d19ff50",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Obsidian通过Smart Connections插件，配置本地模型，实现笔记问答.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "05a39b4df2aa10cd",
+    "type": "split",
+    "children": [
+      {
+        "id": "044f33c1e97bcafe",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f1ff70d76f60022e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "7a546e2a18263881",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ee53862147fb480d",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 277.5
+  },
+  "right": {
+    "id": "a45ca2c23effc78e",
+    "type": "split",
+    "children": [
+      {
+        "id": "00fcbad10feeef2d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cb97cc61f0c6c658",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Obsidian通过Smart Connections插件，配置本地模型，实现笔记问答.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "884a84c223944bfd",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Obsidian通过Smart Connections插件，配置本地模型，实现笔记问答.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "9682d8d5bf8a8d32",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "f9eca5bf1216edbf",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Obsidian通过Smart Connections插件，配置本地模型，实现笔记问答.md"
+              }
+            }
+          },
+          {
+            "id": "0189ca5a35297ee7",
+            "type": "leaf",
+            "state": {
+              "type": "smart-connections-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "45f725058d166501",
+            "type": "leaf",
+            "state": {
+              "type": "smart-connections-chat-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "d8db73dd9d0d4594",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 6
+      }
+    ],
+    "direction": "horizontal",
+    "width": 536.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "obsidian-git:Open Git source control": false,
+      "smart-connections:Open: View Smart Connections": false,
+      "smart-connections:Open: Smart Chat Conversation": false
+    }
+  },
+  "active": "6759866e6d19ff50",
+  "lastOpenFiles": [
+    "在window下 部署Cloud_KBS，管理本地Obsidian的笔记.md",
+    "Obsidian通过Smart Connections插件，配置本地模型，实现笔记问答.md",
+    "smart-chats/UNTITLED CHAT 2024-09-28 10 52 11.md",
+    "smart-chats/UNTITLED CHAT 2024-09-28 10 50 41.md",
+    "smart-chats/UNTITLED CHAT 2024-09-28 10 50 15.md",
+    "smart-chats/UNTITLED CHAT 2024-09-28 10 45 25.md",
+    "smart-chats/UNTITLED CHAT 2024-09-28 08 01 45.md",
+    "smart-chats/UNTITLED CHAT 2024-09-28 11 03 11.md",
+    "smart-chats/UNTITLED CHAT 2024-09-28 07 57 48.md",
+    "smart-chats/UNTITLED CHAT 2024-09-28 10 59 47.md",
+    "图片/总结.gif",
+    "smart-chats/UNTITLED CHAT 2024-09-28 07 56 29.md",
+    "smart-chats/UNTITLED CHAT 2024-09-28 07 53 48.md",
+    "smart-chats/UNTITLED CHAT 2024-09-28 07 51 18.md",
+    "smart-chats/UNTITLED CHAT 2024-09-28 07 44 06.md",
+    "smart-chats/UNTITLED CHAT 2024-09-28 07 39 55.md",
+    "smart-chats/UNTITLED CHAT 2024-09-28 07 38 31.md",
+    "smart-chats/UNTITLED CHAT 2024-09-28 07 33 49.md",
+    "smart-chats/UNTITLED CHAT 2024-09-28 07 32 30.md",
+    "smart-chats/UNTITLED CHAT 2024-09-28 07 30 17.md",
+    "smart-chats/UNTITLED CHAT 2024-09-28 08 02 01.md",
+    "图片/英文提示词.gif",
+    "图片/中文提示词.gif",
+    "图片/中文提示词.gif",
+    "图片/没有提示词 1.gif",
+    "图片/没有提示词.gif",
+    "smart-chats/UNTITLED CHAT 2024-09-28 06 37 14.md",
+    "smart-chats/UNTITLED CHAT 2024-09-28 07 26 06.md",
+    "smart-chats/UNTITLED CHAT 2024-09-28 06 53 22.md",
+    "smart-chats/UNTITLED CHAT 2024-09-28 06 48 05.md",
+    "smart-chats/UNTITLED CHAT 2024-09-28 06 45 06.md",
+    "图片",
+    "图片/1727504929107.png",
+    "图片/1727504099346.png",
+    "图片/1727503802822.png",
+    "图片/1727503700802.png",
+    "smart-chats"
+  ]
+}

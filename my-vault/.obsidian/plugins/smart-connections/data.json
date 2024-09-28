@@ -1,0 +1,35 @@
+{
+  "env_data_dir": ".smart-env",
+  "new_user": false,
+  "legacy_transformers": false,
+  "enable_mobile": false,
+  "actions": {
+    "lookup": true
+  },
+  "system_prompts_folder": "smart prompts",
+  "smart_chat_folder": "smart-chats",
+  "smart_chat_folder_last": "smart-chats",
+  "chat_model_platform_key": "custom_local",
+  "open_router": {},
+  "api_key": "",
+  "excluded_headings": "",
+  "show_full_path": false,
+  "expanded_view": false,
+  "language": "en",
+  "version": "2.2.76",
+  "custom_local": {
+    "streaming": true,
+    "port": 11434,
+    "model_name": "qwen2:7b",
+    "description": "Custom Local (OpenAI format)",
+    "type": "API",
+    "protocol": "http",
+    "hostname": "localhost",
+    "path": "/v1/chat/completions",
+    "max_input_tokens": 8000
+  },
+  "smart_view_filter": {
+    "exclude_inlinks": true,
+    "exclude_outlinks": true
+  }
+}
